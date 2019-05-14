@@ -1,0 +1,6 @@
+{
+    "name": "WeClient",
+    "dockerFile": "Dockerfile",
+    "extensions": [],
+    "postCreateCommand": ""
+}
