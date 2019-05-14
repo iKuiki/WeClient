@@ -2,5 +2,5 @@
     "name": "WeClient",
     "dockerFile": "Dockerfile",
     "extensions": [],
-    "postCreateCommand": ""
+    "postCreateCommand": "npm install"
 }
