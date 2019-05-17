@@ -1,6 +1,9 @@
 {
     "name": "WeClient",
     "dockerFile": "Dockerfile",
-    "extensions": [],
+    "extensions": [
+        "octref.vetur",
+        "dbaeumer.vscode-eslint"
+    ],
     "postCreateCommand": "npm install"
 }
