@@ -4,6 +4,5 @@
     "extensions": [
         "octref.vetur",
         "dbaeumer.vscode-eslint"
-    ],
-    "postCreateCommand": "npm install"
+    ]
 }
